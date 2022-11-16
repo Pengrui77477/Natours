@@ -192,4 +192,13 @@
   "ratingsAverage": 4.9,
   "ratingsQuantity": 19,
   "price": 1497
+}, {
+  "id": 18,
+  "name": "hahahah",
+  "duration": 10,
+  "maxGroupSize": 15,
+  "difficulty": "medium",
+  "ratingsAverage": 4.9,
+  "ratingsQuantity": 19,
+  "price": 1497
 }]
